@@ -6,3 +6,4 @@ scikit-learn==1.1.3
 statsmodels==0.13.5
 tensorflow==2.10.0
 yfinance==0.2.12
+plotly==5.24.1
